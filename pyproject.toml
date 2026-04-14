@@ -39,7 +39,7 @@ classifiers = [
 dev = [
     "pre-commit",
     "pyright>=1.1.389",
-    "pytest>=8.3.3",
+    "pytest>=9.0.3",
     "pytest-asyncio>=0.23.5",
     "pytest-flakefinder",
     "pytest-xdist>=3.6.1",
